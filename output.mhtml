@@ -1,0 +1,59 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://jade-monstera-17de54.netlify.app/
+Subject: React App
+Date: Mon, 9 Mar 2026 09:14:52 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--LGepBRqnM1ZQqYlLGhs0gBtfylpY5NLUDNA5VUrngW----"
+
+
+------MultipartBoundary--LGepBRqnM1ZQqYlLGhs0gBtfylpY5NLUDNA5VUrngW----
+Content-Type: text/html
+Content-ID: <frame-EFA203B1396ABD9AC6921B5C6429E298@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://jade-monstera-17de54.netlify.app/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"icon" href=3D"https://jad=
+e-monstera-17de54.netlify.app/favicon.ico"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width,initial-scale=3D1"><meta name=3D"theme-color" cont=
+ent=3D"#000000"><meta name=3D"description" content=3D"Web site created usin=
+g create-react-app"><link rel=3D"apple-touch-icon" href=3D"https://jade-mon=
+stera-17de54.netlify.app/logo192.png"><link rel=3D"manifest" href=3D"https:=
+//jade-monstera-17de54.netlify.app/manifest.json"><title>React App</title><=
+link href=3D"https://jade-monstera-17de54.netlify.app/static/css/main.e6c13=
+ad2.css" rel=3D"stylesheet"></head><body><div id=3D"root"><div><h1 style=3D=
+"text-align: center;">Students Table</h1><div style=3D"border: 2px solid bl=
+ack; padding: 25px; margin: 20px auto; border-radius: 10px; width: 50%;"><d=
+iv style=3D"text-align: center;"><h2>Add Student</h2><form><input placehold=
+er=3D"Name" required=3D"" type=3D"text" value=3D"" name=3D"name"><input pla=
+ceholder=3D"Email" required=3D"" type=3D"email" value=3D"" name=3D"email" s=
+tyle=3D"margin-left: 10px;"><input placeholder=3D"Age" required=3D"" type=
+=3D"number" value=3D"" name=3D"age" style=3D"margin-left: 10px;"><button ty=
+pe=3D"submit" style=3D"margin-left: 10px;">Add</button></form></div><table =
+border=3D"1" style=3D"margin: 30px auto; border-collapse: collapse; text-al=
+ign: center;"><thead><tr><th>Name</th><th>Email</th><th>Age</th><th>Actions=
+</th></tr></thead><tbody><tr><td>Aarav Sharma</td><td>aarav.sharma@gmail.co=
+m</td><td>20</td><td><button>Edit</button><button style=3D"margin-left: 10p=
+x;">Delete</button></td></tr><tr><td>Priya Reddy</td><td>priya.reddy@gmail.=
+com</td><td>21</td><td><button>Edit</button><button style=3D"margin-left: 1=
+0px;">Delete</button></td></tr><tr><td>Rahul Verma</td><td>rahul.verma@gmai=
+l.com</td><td>22</td><td><button>Edit</button><button style=3D"margin-left:=
+ 10px;">Delete</button></td></tr></tbody></table><div style=3D"text-align: =
+center; margin-top: 20px;"><button>Download Excel</button></div></div></div=
+></div></body></html>
+------MultipartBoundary--LGepBRqnM1ZQqYlLGhs0gBtfylpY5NLUDNA5VUrngW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://jade-monstera-17de54.netlify.app/static/css/main.e6c13ad2.css
+
+@charset "utf-8";
+
+body { -webkit-font-smoothing: antialiased; font-family: -apple-system, Bli=
+nkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans"=
+, "Droid Sans", "Helvetica Neue", sans-serif; margin: 0px; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+------MultipartBoundary--LGepBRqnM1ZQqYlLGhs0gBtfylpY5NLUDNA5VUrngW------
